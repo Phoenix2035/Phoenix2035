@@ -3,9 +3,9 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="animated" />
 </p>
 
-
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=material-palenight&langs_count=12)
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=masturdating1991&show_icons=true&include_all_commits=true&theme=material-palenight)
+![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=material-palenight&langs_count=12)
+
 
 ## What i Know
 ![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
