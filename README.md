@@ -3,14 +3,28 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="animated" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=masturdating1991&show_icons=true&include_all_commits=true&theme=material-palenight)
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=material-palenight&langs_count=12)
-
-
 ## What i Know
-![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
-![react](https://img.icons8.com/officel/64/000000/react.png)
-![sass](https://img.icons8.com/color/64/000000/sass.png)
+<p>
+<img src="./images/html5-2.svg" width="40"/>
+<img src="./images/css-124-624920.png" width="55"/>
+<img src="./images/bootstrap-4.svg" width="50"/>
+<img src="./images/sass-1.svg" width="70"/>
+<img src="./images/jquery-2.svg" width="80"/>
+<img src="./images/logo-javascript.svg" width="50"/>
+<img src="./images/typescript.svg" width="50"/>
+<img src="./images/react-2.svg" width="50"/>
+<img src="./images/redux-seeklogo.com.svg" width="50"/>
+</p>
+
+## My Stats
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=monokai)
+![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-heydari79&layout=compact&theme=monokai&langs_count=12) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossein-heydari79&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-heydari79&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-heydari79&layout=compact&theme=monokai&langs_count=12"/>
+</p>
 
 
 ## How to reach me
