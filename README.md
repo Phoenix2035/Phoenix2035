@@ -24,11 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=monokai&langs_count=12"/>
 </p>
 
-
-## How to reach me
-<a href="https://t.me/masturdating" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
-<a href="https://linkedin.com/in/ali-ghodousi/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
-
 <br/><br/>
 
 ## Activity Graph
@@ -43,3 +38,9 @@
 <h3 align="center"> 
 <img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
 </h3>
+
+<br/><br/>
+
+## How to reach me
+<a href="https://t.me/masturdating" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
+<a href="https://linkedin.com/in/ali-ghodousi/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
