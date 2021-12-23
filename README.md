@@ -29,10 +29,11 @@
 <a href="https://t.me/masturdating" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
 <a href="https://linkedin.com/in/ali-ghodousi/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
 
+<br/><br/>
 
-
+## Activity Graph
 <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=masturdating1991&custom_title=Ali's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
 </div>
 
 <br/><br/>
