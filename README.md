@@ -28,3 +28,17 @@
 ## How to reach me
 <a href="https://t.me/masturdating" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
 <a href="https://linkedin.com/in/ali-ghodousi/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
+
+
+
+<div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hadiazt&custom_title=hadiazt's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
+</div>
+
+<br/><br/>
+
+
+## Visitors
+<h3 align="center"> 
+<img src="https://camo.githubusercontent.com/0ee8b9773d950f3c13fd0f442d6274998934716d078e1885dd2b89abc6e7e1d6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f68616469617a742f636f756e742e737667" />
+</h3>
