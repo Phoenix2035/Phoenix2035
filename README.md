@@ -3,9 +3,12 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="animated" />
 </p>
 
-<a href="https://www.coffeebede.com/masturdating" align="center">
-<img  src="https://www.uplooder.net/img/image/37/c37da954c6c68345e235128f5f4471bf/1.svg"/>
-</a>
+
+<p align="center">
+  <a href="https://www.coffeebede.com/masturdating">
+    <img  src="https://www.uplooder.net/img/image/37/c37da954c6c68345e235128f5f4471bf/1.svg"/>
+  </a>
+</p>
 
 
 ## What i Know
