@@ -13,13 +13,6 @@
 <br/><br/>
 
 
-## Activity Graph
-<div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=masturdating1991&custom_title=Ali's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=true"  alt=""/>     </a>
-</div>
-
-<br/><br/>
-
 
 ## Visitors
 <h3 align="center"> 
