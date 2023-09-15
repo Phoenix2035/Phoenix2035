@@ -12,17 +12,6 @@
 
 <br/><br/>
 
-## My Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=masturdating1991&show_icons=true&include_all_commits=true&theme=monokai)
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=monokai&langs_count=12) -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masturdating1991&show_icons=true&include_all_commits=true&theme=monokai" alt="masturdating" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masturdating1991&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masturdating1991&layout=compact&theme=monokai&langs_count=12"/>
-</p>
-
-<br/><br/>
 
 ## Activity Graph
 <div align="center"> 
